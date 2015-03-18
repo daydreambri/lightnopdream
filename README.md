@@ -1,7 +1,7 @@
 # lightnopdream
 The game that will change the paradigm!
 
-Check out simple SLD tutorial: https://www.youtube.com/watch?v=DgpcRIK2uug
+Check out simple SDL tutorial: https://www.youtube.com/watch?v=DgpcRIK2uug
 
 
 I am using lightnopdream\lightnopdream\derp.bmp but not including it in git. Use any bmp
