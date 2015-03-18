@@ -1,0 +1,2 @@
+March 17, 2015
+lhp is suggesting a simple 2D game. Nop suggested SDL. DD thinks an old Ultima style game would be fun.
