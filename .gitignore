@@ -159,3 +159,12 @@ FakesAssemblies/
 # Visual Studio 6 workspace options file
 *.opt
 
+*.dll
+*.log
+*.tlog
+*.lastbuildstate
+*.obj
+*.idb
+*.pdb
+*.exe
+*.ilk
