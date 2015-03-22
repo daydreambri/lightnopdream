@@ -1,4 +1,9 @@
+#ifdef LINUX
+#include <SDL2/SDL.h>
+#else
 #include <SDL.h>
+#endif
+
 #include <iostream>
 
 using namespace std;

@@ -9,3 +9,6 @@ you like for testing or I can send you a copy of derpy.
 
 Also for lhp: http://nothingtocode.blogspot.com/2013/07/setting-up-sdl2-in-ubuntu-linux-mint-debian.html
 This worked fine for me.
+
+Building in linux:
+g++ -DLINUX src/main.cpp -o bin/Debug/lhp -std=c++11 -Wall -lSDL2
